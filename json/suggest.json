@@ -1,0 +1,34 @@
+{
+ "data":[
+	{
+	"id" : 1,
+	"suggestName":"小米11"
+	},
+	{
+	"id": 2,
+	"suggestName":"笔记本"
+	},
+	{
+	"id": 3,
+	"suggestName":"Note 9"
+	},
+	{
+	"id": 4,
+	"suggestName":"小米10"
+	},
+	{
+	"id": 5,
+	"suggestName":"耳机"
+	},
+	{
+	"id": 6,
+	"suggestName":"加湿器"
+	},
+	{
+	"id": 7,
+	"suggestName":"洗衣机"
+	}
+ ],
+ "code":0,
+ "msg":"请求成功"
+}

@@ -1,0 +1,22 @@
+{
+ "data":[
+	{
+	"id": 1,
+	"swiper_img":"./img/lunbo1.jpg"
+	},
+	{
+	"id": 2,
+	"swiper_img":"./img/lunbo2.jpg"
+	},
+	{
+	"id": 3,
+	"swiper_img":"./img/lunbo3.jpg"
+	},
+	{
+	"id": 4,
+	"swiper_img":"./img/lunbo4.jpg"
+	}
+ ],
+ "code":0,
+ "msg":"请求成功"
+}
